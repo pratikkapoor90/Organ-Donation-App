@@ -1,0 +1,9 @@
+2018-08-02 23:41:30,088 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-02 23:41:38,043 	 [DEBUG | Hospital.py:39] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-02 23:41:38,044 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-02 23:41:38,240 	 [INFO | HospitalHome.py:11] > getHospitalName logger initilized
+2018-08-02 23:41:38,268 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-02 23:41:38,312 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-02 23:41:38,325 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-02 23:41:38,350 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-02 23:41:38,385 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized

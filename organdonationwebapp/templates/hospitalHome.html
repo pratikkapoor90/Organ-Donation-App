@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <title> Hospital Home</title>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <ul class="navbar-nav mr-auto">  
+                <a class="navbar-brand" href="{{ url_for('hospitalHome', emailID = g.user)}}" >Organ Donation</a>
+            </ul>
+            <div>
+                <a href ="{{ url_for('logout')}}"><button class="btn btn-dark my-2 my-sm-0" type="submit" > Logout</button></a>
+            </div>
+    </nav>
+</head>
+<body style="background-color:#ffffff; overflow: scroll;">
+<div class="container" style="text-align: center">
+        <h4 style="padding: 1em 1em 1em 1em">Welcome {{session.user}}</h4>
+
+
+</div>
+<div class= "container" >
+    <div class=" card row justify-content-md-center table-responsive">
+        <div class="col-md-12">
+             <form method="post">
+                <div class="card-body row">
+                    <div class=" card-header col-xs-4 col-sm-4 col-md-4"style="center">
+                        <div class="form-group">
+                            <label>Pending Request</label>
+                        </div>
+                     </div>
+                    <div class="card-header col-xs-4 col-sm-4 col-md-4">
+                        <div class="form-group">
+                            <label>Donor List</label>
+                        </div>
+                     </div>
+                    <div class="card-header col-xs-4 col-sm-4 col-md-4">
+                        <div class="form-group">
+                            <label>Receiver List</label>
+                        </div>
+                     </div>
+                </div>
+                  <div class="row">
+                        <div class="col-xs-4 col-sm-4 col-md-4">
+                    <ul class="list-group list-group-flush">
+                        {% if request_list %}
+                        <table class="table table-sm">
+                                <tr>
+                                    <th>Donor Name</th>
+                                    <th></th>
+                                </tr>
+                                {% for item in request_list %}
+                                <tr>
+                                    <td> {{ item[1] }}</td>
+                                    <td>  <button type="submit" class="btn btn-primary btn-sm" name="requestID" value="{{ item[0] }}">View Request</button></td>
+                                </tr>
+                                {% endfor %}
+                        </table>
+                    </ul>
+                                    {% else %}
+                                        <p>No Requests Available</p>
+                                    {% endif %}
+                             </div>
+                    <div class="col-xs-4 col-sm-4 col-md-4">
+                        <ul class="list-group list-group-flush">
+                            {% if donor_list %}
+                                {% for item in donor_list %}
+                                <li class="list-group-item"> {{ item[0]}} {{item[1]}} </li>
+                                {% endfor %}
+                            {% else %}
+                                <p>No Donors Available</p>
+                            {% endif %}
+
+                        </ul>
+                    </div>
+
+                       <div class="col-xs-4 col-sm-4 col-md-4">
+                            <ul class="list-group list-group-flush">
+
+                                {% if receiver_list %}
+                                    {% for item in receiver_list %}
+                                    <li class="list-group-item"> {{ item[0]}} {{item[1]}} </li>
+                                    {% endfor %}
+                                {% else %}
+                                    <p>No Receivers Available</p>
+                                {% endif %}
+                            </ul>
+                       </div>
+                     </div>
+                     <div class="row">
+                            <div class="col-md-4">
+                                    <input type="submit" name="submit" class="btn btn-primary" value="View Donor Receiver Mapping" />
+                                </div>
+                            <div class="col-md-4">
+                                    <button type="submit" name="submit" class="btn btn-primary" value="View Donor List"> View Donor List </button>
+                            </div>
+                            <div class="col-md-4">
+                                    <button type="submit" name="submit" class="btn btn-primary" value="View Receiver List"> View Receiver List </button>
+                            </div>
+                    </div>
+                </div>
+                {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    <script>
+                        var messages = {{ messages | safe }};
+                        for (var i=0; i<messages.length; i++) 
+                        {
+                            alert(messages[i]);
+                        }
+                    </script>
+                {% endif %}
+             {% endwith %}
+            </form>
+        </div>
+    </div>
+</div>
+
+</body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-bottom" style="height: 2em">
+        <footer style="color: white; text-align: center">
+            <a class="navbar-brand" href="#">Copyright©2018</a>
+        </footer>
+
+    </nav>
+
+</html>

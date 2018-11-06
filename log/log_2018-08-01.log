@@ -1,0 +1,548 @@
+2018-08-01 02:21:36,123 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:21:52,030 	 [ERROR | Hospital.py:41] > Hospital iwk@gmail.com log in failed.
+2018-08-01 02:21:52,032 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 02:22:00,509 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 02:22:00,509 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 02:27:02,336 	 [DEBUG | Hospital.py:38] > Hospital hpratik@gmail.com logged in Successfully.
+2018-08-01 02:27:02,336 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 02:33:38,305 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:35:47,615 	 [DEBUG | Hospital.py:38] > Hospital hpratik@gmail.com logged in Successfully.
+2018-08-01 02:35:49,003 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 02:38:10,948 	 [DEBUG | Hospital.py:38] > Hospital hpratik@gmail.com logged in Successfully.
+2018-08-01 02:38:10,949 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 02:39:25,568 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:39:25,584 	 [DEBUG | Hospital.py:38] > Hospital hpratik@gmail.com logged in Successfully.
+2018-08-01 02:39:25,584 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 02:41:03,296 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:41:48,578 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:42:46,614 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:42:46,631 	 [DEBUG | Hospital.py:38] > Hospital hpratik@gmail.com logged in Successfully.
+2018-08-01 02:42:46,631 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 02:49:19,005 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:52:42,677 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:57:42,654 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 02:59:35,462 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 03:00:03,262 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 03:00:11,704 	 [DEBUG | Hospital.py:38] > Hospital hpratik@gmail.com logged in Successfully.
+2018-08-01 03:00:11,705 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 03:16:43,318 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 03:16:54,358 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 03:16:54,358 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 04:10:35,098 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 04:11:11,363 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 04:11:11,436 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 04:11:11,436 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 04:12:20,816 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 04:17:14,121 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 04:37:50,172 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 04:55:27,647 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 05:07:16,378 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 05:07:51,284 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 05:08:28,651 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 15:18:11,929 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 15:18:19,603 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 15:18:19,605 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 17:06:19,189 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:06:29,945 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:06:29,948 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:06:38,875 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:06:38,876 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:06:51,379 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:06:51,383 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:06:51,384 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:07:06,329 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:07:06,333 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:07:20,183 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:07:20,184 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:08:16,880 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:08:16,882 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:08:16,882 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:09:36,346 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 17:09:36,347 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 17:09:50,457 	 [ERROR | Admin.py:21] > Authentication Failed. Please register if not a registered User
+2018-08-01 17:09:50,460 	 [ERROR | HospitalViews.py:70] > User did not register
+2018-08-01 17:13:27,731 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:13:27,771 	 [DEBUG | Admin.py:18] > Admin pratik@gmail.com logged in Successfully.
+2018-08-01 17:13:27,771 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 17:19:23,572 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:20:04,430 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:20:28,923 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:21:09,112 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:26:58,646 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:27:50,658 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:29:57,600 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:30:03,100 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 17:30:03,101 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 17:32:14,178 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:32:25,163 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 17:32:25,164 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 17:34:29,610 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:40:14,428 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:49:44,849 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 17:54:36,025 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 17:54:36,025 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 17:55:10,711 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 17:55:10,711 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 18:14:45,177 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 18:14:53,804 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 18:14:53,805 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 18:14:54,123 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:14:54,145 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:14:54,173 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:14:54,184 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:14:54,205 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:14:54,237 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:14:57,773 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:14:57,794 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:14:57,824 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:14:57,835 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:14:57,861 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:14:57,902 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:14:58,263 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:14:58,288 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:15:07,014 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:15:07,037 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:15:07,071 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:15:07,082 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:15:07,103 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:15:07,175 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:15:09,307 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:15:09,341 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:15:09,385 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:15:09,396 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:15:09,421 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:15:09,461 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:15:09,560 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:15:09,662 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:15:11,992 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:15:12,012 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:15:12,457 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:15:12,493 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:15:15,848 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:15:15,868 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:16:40,059 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:16:40,091 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:18:31,718 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:18:31,772 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:19:09,275 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:19:09,318 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:19:12,347 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:19:12,406 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:19:12,544 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:19:12,583 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:19:12,613 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:19:12,654 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:10,164 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:10,195 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:10,236 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:21:10,250 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:21:10,276 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:21:10,317 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:13,304 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:13,333 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:13,372 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:21:13,388 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:21:13,413 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:21:13,452 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:13,563 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:13,591 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:13,632 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:16,900 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:16,926 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:16,966 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:21:16,980 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:21:17,006 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:21:17,044 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:44,998 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:45,024 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:45,057 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:21:45,067 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:21:45,088 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:21:45,119 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:49,062 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:49,095 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:49,133 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:21:49,145 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:21:49,172 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:21:49,208 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:21:49,314 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:49,347 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:52,390 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:21:52,413 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:21:52,861 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:21:52,904 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:23:39,288 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:23:39,324 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:25:14,638 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 18:25:14,720 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:25:14,774 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:25:21,579 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:25:21,673 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:25:27,426 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:27,449 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:27,486 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:25:27,495 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:25:27,525 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:25:27,564 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:25:32,419 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:32,446 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:32,495 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:25:32,506 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:25:32,529 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:25:32,566 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:25:32,680 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:32,709 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:33,595 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:33,622 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:36,489 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:36,511 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:38,043 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:38,086 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:41,841 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:25:53,505 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:53,537 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:25:55,189 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:25:55,222 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:01,358 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:01,383 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:02,926 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:02,974 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:08,241 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:08,263 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:09,537 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:09,571 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:13,090 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:13,111 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:17,293 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:17,320 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:17,361 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:26:17,376 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:26:17,403 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:26:17,438 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:26:18,986 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:19,044 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:19,100 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:26:19,117 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:26:19,143 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:26:19,190 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:26:19,530 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:19,564 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:20,588 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:20,629 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:21,103 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:26:21,148 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:26:24,821 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:26:24,852 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:26:35,318 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:35,352 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:35,393 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:26:35,409 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:26:35,436 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:26:35,502 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:26:40,085 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:40,112 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:40,151 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:26:40,164 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:26:40,188 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:26:40,229 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:26:40,568 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:40,597 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:41,659 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:26:41,689 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:26:42,147 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:26:42,203 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:26:52,010 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:26:52,043 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:26:55,425 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:26:55,473 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:27:50,715 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:27:50,771 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:27:53,614 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:27:53,669 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:28:06,967 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 18:28:07,041 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:28:07,096 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:28:10,839 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:28:10,903 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:28:35,806 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:28:35,843 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:28:35,896 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:28:35,912 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:28:35,943 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:28:35,985 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:29:05,678 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:29:05,702 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:29:05,747 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:29:05,759 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:29:05,786 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:29:05,831 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:29:05,937 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:29:05,969 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:29:07,157 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:29:07,184 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:29:07,641 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:29:07,689 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:29:10,040 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:29:10,080 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:29:13,138 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:29:13,183 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:29:16,098 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:29:16,126 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:29:16,159 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:29:16,173 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:29:16,195 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:29:16,259 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:29:18,368 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:29:18,400 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:29:18,445 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:29:18,462 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:29:18,497 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:29:18,541 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:29:18,736 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:29:20,954 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:31:19,841 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:31:28,305 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:31:30,438 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:31:30,467 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:31:30,520 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:31:30,539 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:31:30,572 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:31:30,646 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:31:40,526 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:31:40,549 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:31:40,579 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:31:40,590 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:31:40,614 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:31:40,646 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:31:40,987 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:31:41,018 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:31:44,102 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:31:44,123 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:31:44,568 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:31:44,613 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:31:50,213 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:31:50,250 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:32:50,324 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 18:32:50,475 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:32:54,504 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:33:09,655 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:33:25,815 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:25,846 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:25,889 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:33:25,923 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:33:25,957 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:33:26,009 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:33:28,804 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:28,826 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:28,867 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:33:28,881 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:33:28,911 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:33:28,993 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:33:29,341 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:29,383 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:30,624 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:30,646 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:31,138 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:33:31,189 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:33:34,004 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:34,028 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:39,321 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:39,355 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:39,403 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:33:39,414 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:33:39,442 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:33:39,479 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:33:40,637 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:40,661 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:40,696 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:33:40,708 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:33:40,731 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:33:40,770 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:33:41,106 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:41,135 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:43,119 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:43,145 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:46,689 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:33:46,714 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:33:46,760 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:33:46,777 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:33:46,804 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:33:46,846 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:34:28,198 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:34:28,229 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:34:28,274 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:34:28,292 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:34:28,324 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:34:28,374 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:34:29,822 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:34:29,846 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:34:29,883 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:34:29,893 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:34:29,918 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:34:29,952 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:34:30,390 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:34:39,749 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:34:56,294 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:34:58,662 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:34:58,693 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:34:58,999 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:34:59,015 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:34:59,050 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:34:59,104 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:35:05,407 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 18:35:05,409 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:35:05,435 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:35:05,476 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:35:05,490 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:35:05,543 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:35:05,583 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:35:05,667 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:35:05,694 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:35:08,727 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:35:08,747 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:35:09,211 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:35:09,249 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:35:10,911 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:35:10,949 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:35:11,457 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:35:12,640 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:35:17,358 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:35:47,275 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:35:47,318 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:35:47,391 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:35:47,409 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:35:47,456 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:35:47,623 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:37:31,159 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:37:31,192 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:37:31,237 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:37:31,250 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:37:31,284 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:37:31,331 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:37:33,413 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:37:33,440 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:37:33,478 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:37:33,490 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:37:33,511 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:37:33,546 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:37:34,008 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:37:49,916 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:37:56,426 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:37:59,037 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:37:59,073 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:37:59,116 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:37:59,131 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:37:59,160 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:37:59,203 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:38:01,265 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:38:01,291 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:38:01,323 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:38:01,334 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:38:01,357 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:38:01,395 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:38:01,733 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:38:01,760 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:38:03,374 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:38:03,421 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:38:03,886 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:38:03,937 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:38:05,982 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:38:06,018 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:38:06,517 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:38:07,857 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:51:29,758 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:51:31,693 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:51:31,723 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:51:31,775 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:51:31,828 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:51:31,867 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:51:31,915 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:51:33,841 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:51:33,875 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:51:33,930 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 18:51:33,950 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 18:51:33,982 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 18:51:34,031 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:51:34,107 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:51:34,145 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:51:34,211 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:51:35,469 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:51:35,518 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:51:35,550 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:51:35,581 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:51:35,621 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:51:35,659 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:51:38,207 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:51:38,253 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:51:38,298 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:51:38,348 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:51:38,396 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:51:38,443 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:51:38,496 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:51:41,310 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:51:41,334 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:51:41,368 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:51:41,409 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:51:41,448 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:51:41,483 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:52:14,208 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:52:14,247 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:52:14,313 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:52:14,370 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:52:14,528 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:52:14,584 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:52:32,059 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:52:32,104 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:52:32,161 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:52:32,209 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:52:32,253 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:52:32,297 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:52:35,337 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:52:35,356 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:52:35,393 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:52:35,427 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:52:35,468 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:52:35,506 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:52:35,541 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:52:38,605 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 18:52:38,625 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 18:52:38,669 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 18:52:38,712 	 [INFO | Models.py:12] > donorHospitalShowReceiverProfile logger initilized
+2018-08-01 18:52:38,747 	 [INFO | Models.py:66] > receiverHospitalShowOrgan logger initilized
+2018-08-01 18:52:38,786 	 [INFO | Models.py:51] > recommendedDonorList logger initilized
+2018-08-01 18:57:41,049 	 [INFO | HospitalViews.py:141] > Logging logpout
+2018-08-01 18:58:41,658 	 [ERROR | HospitalViews.py:50] > Incorrect Password Value
+2018-08-01 19:02:32,934 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 19:03:05,140 	 [ERROR | Hospital.py:26] > Registration failed.
+2018-08-01 19:03:05,141 	 [ERROR | HospitalViews.py:47] > Error Inserting Data
+2018-08-01 19:03:27,720 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 19:04:18,164 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 19:04:44,199 	 [ERROR | Hospital.py:26] > Registration failed.
+2018-08-01 19:04:44,200 	 [ERROR | HospitalViews.py:47] > Error Inserting Data
+2018-08-01 19:07:32,325 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 19:07:47,891 	 [DEBUG | Hospital.py:38] > Hospital iwk@gmail.com logged in Successfully.
+2018-08-01 19:07:47,891 	 [INFO | HospitalViews.py:66] > Logged in
+2018-08-01 19:07:47,898 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 19:07:47,920 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 19:07:47,955 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 19:07:47,965 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 19:07:47,986 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 19:07:48,019 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 19:07:50,308 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 19:07:50,332 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 19:07:50,368 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 19:07:50,383 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 19:07:50,403 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 19:07:50,449 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 19:09:03,770 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 19:09:03,774 	 [INFO | HospitalHome.py:11] >  getHospitalName logger initilized
+2018-08-01 19:09:03,808 	 [INFO | Models.py:46] >  getHospitalName logger intitlized
+2018-08-01 19:09:03,861 	 [INFO | Models.py:151] > getHospitalRequestList called for emailID
+2018-08-01 19:09:03,879 	 [INFO | Models.py:157] > Values Fetched Successfully
+2018-08-01 19:09:03,907 	 [INFO | Models.py:109] > getHospitalDonorList logger initilized
+2018-08-01 19:09:03,965 	 [INFO | Models.py:130] > getHospitalRecipientList logger initilized
+2018-08-01 19:09:44,357 	 [DEBUG | Hospital.py:23] > Hospital hpraasastik@gmail.com registered Successfully.
+2018-08-01 19:09:44,357 	 [INFO | HospitalViews.py:43] > Registered Successfully
+2018-08-01 19:17:10,074 	 [DEBUG | Logger.py:31] > Logger generated successfully.
+2018-08-01 19:17:37,166 	 [DEBUG | Hospital.py:23] > Hospital testhospital@gmail.com registered Successfully.
+2018-08-01 19:17:37,167 	 [INFO | HospitalViews.py:43] > Registered Successfully

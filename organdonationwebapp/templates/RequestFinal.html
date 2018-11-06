@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <title>Request Approval</title>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <ul class="navbar-nav mr-auto">  
+                    <a class="navbar-brand" href="{{ url_for('hospitalHome', emailID = g.user)}}" >Organ Donation</a>
+            </ul>
+            <div>
+                <a href ="{{ url_for('logout')}}"><button class="btn btn-dark my-2 my-sm-0" type="submit" > Logout</button></a>
+            </div>
+    </nav>
+</head>
+<body style="background-color:#FFFFFF; overflow: scroll;">
+<div class="container" style="text-align: center">
+<h4>Request Approval</h4>
+</div>
+<div class= "container" >
+    <div class="card row justify-content-md-center">
+        <div class="col-md-12">
+             <form>
+                <div class="row">
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <div class="form-group">
+                            <label>Receiver Profile</label>
+                            <div class="row">
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Name:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Rname" id="Rname" class="form-control" placeholder="Dummy Name">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Email:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="email" id="email" class="form-control" placeholder="Dummy Email">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Birthdate:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Bdate" id="Bdate" class="form-control" placeholder="Dummy Birthdate">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Sex:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Sex" id="Sex" class="form-control" placeholder="Dummy Sex">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Receiving Organ:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Organ" id="Organ" class="form-control" placeholder="Dummy Organ">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Medical Reports:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-lg-9">
+                                    <div class="form-group">
+						                <input type="file" id="file1" class="btn button"/>
+                                        <input type="file" id="file1" class="btn button"/>
+                                        <input type="file" id="file1" class="btn button"/>
+                                    </div>
+					             </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <label>Send Email :</label>
+                                </div>
+                                <div class="col-xs-6 col-sm-6 col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" name="Demail" id="Demail" class="form-control" placeholder="Dummy Email">
+                                    </div>
+                                </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                     <input type="button" class="btn btn-primary" value="Send Email" onclick="location.href='#'"/>
+                                </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <label>Contact Phone :</label>
+                                </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Dphone" id="Dphone" class="form-control" placeholder="Dummy Phone Number">
+                                    </div>
+                                 </div>
+                            </div>
+                        </div>
+                     </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6">
+                        <div class="form-group">
+                            <label>Donor Profile</label>
+                                <div class="row">
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Name:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Rname" id="Rname" class="form-control" placeholder="Dummy Name">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Email:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="email" id="email" class="form-control" placeholder="Dummy Email">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Birthdate:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Bdate" id="Bdate" class="form-control" placeholder="Dummy Birthdate">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Sex:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Sex" id="Sex" class="form-control" placeholder="Dummy Sex">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Receiving Organ:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Organ" id="Organ" class="form-control" placeholder="Dummy Organ">
+                                    </div>
+                                 </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <div class="form-group">
+                                        <label>Medical Reports:</label>
+                                    </div>
+                                 </div>
+                                <div class="col-lg-9">
+                                    <div class="form-group">
+						                <input type="file" id="file1" class="btn button"/>
+                                        <input type="file" id="file1" class="btn button"/>
+                                        <input type="file" id="file1" class="btn button"/>
+                                    </div>
+					             </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <label>Send Email :</label>
+                                </div>
+                                <div class="col-xs-6 col-sm-6 col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" name="Demail" id="Demail" class="form-control" placeholder="Dummy Email">
+                                    </div>
+                                </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                     <input type="button" class="btn btn-primary" value="Send Email" onclick="location.href='#'"/>
+                                </div>
+                                <div class="col-xs-3 col-sm-3 col-md-3">
+                                    <label>Contact Phone :</label>
+                                </div>
+                                <div class="col-xs-9 col-sm-9 col-md-9">
+                                    <div class="form-group">
+                                        <input type="text" name="Dphone" id="Dphone" class="form-control" placeholder="Dummy Phone Number">
+                                    </div>
+                                 </div>
+                            </div>
+                        </div>
+                        </div>
+                         <input type="button" class="btn btn-primary" value="Accept" onclick="location.href='#'"/>
+                          <input type="button" class="btn btn-primary" value="Deny" onclick="location.href='#'"/>
+
+                     </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-bottom" style="height: 2em">
+        <footer style="color: white; text-align: center">
+            <a class="navbar-brand" href="#">Copyright©2018</a>
+        </footer>
+    </nav>
+</html>
